@@ -1,7 +1,7 @@
 # go-concurrency-expense-report
 
 Generates job expense report using concurrency in go, incorporating:
-  - channels
+ - channels
  - goroutines
 
 
